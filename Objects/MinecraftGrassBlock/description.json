@@ -1,0 +1,7 @@
+{
+   "description" : "A Minecraft grass block that can be placed in the Scrap Mechanic world and interacts with physics.",
+   "localId" : "grass_block_001",
+   "name" : "Grass Block",
+   "type" : "Object",
+   "filters" : ["building"]
+}

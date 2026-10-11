@@ -1,0 +1,85 @@
+{
+   "blockList" :
+   [
+      {
+         "asg" : "$MOD_DATA/Objects/Textures/Blocks/grass_block_asg.tga",
+         "color" : "689f38",
+         "dif" : "$MOD_DATA/Objects/Textures/Blocks/grass_block_dif.tga",
+         "flammable" : false,
+         "legacyId" : 1000,
+         "name" : "minecraft_grass_block",
+         "nor" : "$MOD_DATA/Objects/Textures/Blocks/grass_block_nor.tga",
+         "physicsMaterial" : "Wood",
+         "ratings" :
+         {
+            "buoyancy" : 5,
+            "density" : 5,
+            "durability" : 3,
+            "friction" : 4
+         },
+         "stackSize" : 64,
+         "tiling" : 16,
+         "uuid" : "grass_block_uuid_001"
+      },
+      {
+         "asg" : "$MOD_DATA/Objects/Textures/Blocks/dirt_block_asg.tga",
+         "color" : "8b6d5c",
+         "dif" : "$MOD_DATA/Objects/Textures/Blocks/dirt_block_dif.tga",
+         "flammable" : false,
+         "legacyId" : 1001,
+         "name" : "minecraft_dirt_block",
+         "nor" : "$MOD_DATA/Objects/Textures/Blocks/dirt_block_nor.tga",
+         "physicsMaterial" : "Rock",
+         "ratings" :
+         {
+            "buoyancy" : 3,
+            "density" : 6,
+            "durability" : 4,
+            "friction" : 5
+         },
+         "stackSize" : 64,
+         "tiling" : 16,
+         "uuid" : "dirt_block_uuid_002"
+      },
+      {
+         "asg" : "$MOD_DATA/Objects/Textures/Blocks/stone_block_asg.tga",
+         "color" : "7f7f7f",
+         "dif" : "$MOD_DATA/Objects/Textures/Blocks/stone_block_dif.tga",
+         "flammable" : false,
+         "legacyId" : 1002,
+         "name" : "minecraft_stone_block",
+         "nor" : "$MOD_DATA/Objects/Textures/Blocks/stone_block_nor.tga",
+         "physicsMaterial" : "Rock",
+         "ratings" :
+         {
+            "buoyancy" : 2,
+            "density" : 8,
+            "durability" : 6,
+            "friction" : 5
+         },
+         "stackSize" : 64,
+         "tiling" : 16,
+         "uuid" : "stone_block_uuid_003"
+      },
+      {
+         "asg" : "$MOD_DATA/Objects/Textures/Blocks/wood_plank_asg.tga",
+         "color" : "8b4513",
+         "dif" : "$MOD_DATA/Objects/Textures/Blocks/wood_plank_dif.tga",
+         "flammable" : true,
+         "legacyId" : 1003,
+         "name" : "minecraft_wood_plank",
+         "nor" : "$MOD_DATA/Objects/Textures/Blocks/wood_plank_nor.tga",
+         "physicsMaterial" : "Wood",
+         "ratings" :
+         {
+            "buoyancy" : 6,
+            "density" : 4,
+            "durability" : 3,
+            "friction" : 4
+         },
+         "stackSize" : 64,
+         "tiling" : 16,
+         "uuid" : "wood_plank_uuid_004"
+      }
+   ]
+}
